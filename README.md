@@ -7,6 +7,6 @@ cara kerjanya :
 
 Maka data sentimen yang digunakan yaitu penulisnya, & commentar-nya. 
 Maka hasil analisa sentimen nya, dengan indeks sebagai berikut :
-kategori nilai < 0, Kommentar berbau negatif, 
-kategori nilai = 0, Kommentar masih dalam keadaan normal,
-kategori nilai > 0, Komentar yang sangat positif.
+1. kategori nilai < 0, Kommentar berbau negatif, 
+2. kategori nilai = 0, Kommentar masih dalam keadaan normal,
+3. kategori nilai > 0, Komentar yang sangat positif.
